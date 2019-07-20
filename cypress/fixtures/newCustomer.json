@@ -1,0 +1,12 @@
+
+{
+    "customerName": "user",
+    "gender": "m",
+    "dateBirth": "1997-10-09",
+    "address": "calle 12",
+    "city": "Medellin",
+    "state": "Colombia",
+    "pin": "778777",
+    "mobileNumber": "8765647",
+    "password": "ronn"
+}
