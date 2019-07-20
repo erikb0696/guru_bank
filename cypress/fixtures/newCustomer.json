@@ -1,12 +1,12 @@
 
 {
-    "customerName": "user",
+    "customerName": "erik",
     "gender": "m",
-    "dateBirth": "1997-10-09",
-    "address": "calle 12",
+    "dateBirth": "1996-10-09",
+    "address": "calle 111",
     "city": "Medellin",
     "state": "Colombia",
     "pin": "778777",
     "mobileNumber": "8765647",
-    "password": "ronn"
+    "password": "erik123"
 }
